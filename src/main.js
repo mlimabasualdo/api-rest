@@ -1,0 +1,1 @@
+console.log('API URL = https://cinvirnvre.com/vervsxno?api_jek'+ API_KEY)
